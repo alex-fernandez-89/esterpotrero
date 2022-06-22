@@ -1,0 +1,281 @@
+.contenedor{background-color: ;
+  width: 100%;
+  border-radius: 1vh;
+  margin-left: 2vh;margin-top: auto;
+  padding:1vh ;
+  font-size:1rem;
+
+}
+
+
+body { background-image: linear-gradient(to right top, #231b20, #2f2931, #3a3943, #444a55, #4d5b66, #4d5b66, #4d5b66, #4d5b66, #444a55, #3a3943, #2f2931, #231b20);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+/*BOTON DE CAMBIO DE FONDO*/
+.modo_oscuro {
+    top:auto;
+    position: static;
+    z-index: 999;
+}
+/*CARDS*/
+.contenedorr{margin-top:50px;justify-content: space-around;
+
+}
+.card {background-color: #5B737A;
+    color: antiquewhite;
+
+}
+.card-text {color:#4B4A54; text-align:  center;background-color: #5B737A;
+    color: antiquewhite;
+
+
+}
+.row {text-align:-webkit-center;
+    color: antiquewhite;
+
+}
+
+.botreceta{
+	background-color: black;
+}
+.botreceta:hover{
+font-weight: bold;
+color:black;
+background:#F7DC6F;
+border-color: black;
+box-shadow: 0 0 10vh #F7DC6F, 0 0 10vh #F7DC6F,0 0 10vh #F7DC6F;
+}
+/* aca termina CARDS*/
+
+.carousel-item {background-color: brown;
+  width:100%;
+  height: auto;
+  margin-top: 5rem;
+  margin: 8rem auto auto auto;
+}
+
+@font-face {
+  font-family: "fuentes";
+  src: url("../fuentes/JosefinSans-Italic-VariableFont_wght.ttf") format("truetype");
+
+}
+
+
+ }
+ .titulo1:hover{color:#EAF9F8;
+   transform: scale(1.00)
+
+ }
+.titulo2:hover{color:#EAF9F8;
+transform: scale(1.00)
+}
+.titulo_sec1:hover {color:#F9F871;transform: scale(1.00);}
+.titulo_sec2:hover{color:#F9F871;transform: scale(1.00);}
+.boton:hover{color: #CC904A;transform: scale(1.50);}
+
+.comida{
+  width: 90vw;
+  height: 70vh;
+}
+
+
+
+}
+header{
+  background-color:black;   width: 100%;
+    text-align: center;
+   
+    margin:10%;
+    padding: 1vh;border-radius: 10vh;
+  height:130vh ;
+}
+h1 {border: 2px solid#16A085;padding:3vh;
+
+  color:#0DF3EA;
+
+font-family:"fuentes";
+text-align: center;
+font-size: 3em;
+
+}
+
+h2 {font-family:"fuentes";
+  color:#0DF3EA;font-size: xxlarge ;border-radius: 10vh;
+  font-family: monospace:DejaVu Sans Mono ;
+  text-align: center;
+font-size: 3em;
+
+ }
+ p{
+ color:#F4F6F7;;padding:2vh;
+ font-size:1.5em;
+ font-family: 'Catamaran', sans-serif;
+ font-family: 'Gentium Plus', serif;
+ font-family: 'Josefin Sans', sans-serif;
+ font-family: 'Kdam Thmor Pro', sans-serif;
+ font-family: 'Quicksand', sans-serif;
+ font-family: 'Righteous', cursive;
+ font-family: 'Source Sans Pro', sans-serif;
+ text-align: justify;
+display: flex;justify-content: center;
+ }
+
+  .boton {
+      width: 10%;
+      cursor: pointer;
+      font-family: 'Catamaran', sans-serif;
+     font-family: 'Josefin Sans', sans-serif;
+     font-family: 'Quicksand', sans-serif;
+     a:link{color: #FFFFFF; font-size: 20em;
+  }
+  a:visited {color:coral;  font-family: 'Andika', sans-serif;
+font-family: 'Chango', cursive;
+font-family: 'IM Fell English', serif;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Rammetto One', cursive;
+font-family: 'Teko', sans-serif;
+       font-size: 20em; font-weight: bold;
+  }
+  a:active{color: #FFFFFF;  font-family: 'Andika', sans-serif;
+font-family: 'Chango', cursive;
+font-family: 'IM Fell English', serif;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Rammetto One', cursive;
+font-family: 'Teko', sans-serif;
+       font-size: 10em; font-weight: bold;
+  }
+  .boton:hover {transform: scale(1.2);
+      }
+
+}
+
+.contenedor2{
+  display: flex;
+justify-content: space-around;width: 100%;
+
+}
+section{
+padding:1vh;
+text-align: justify;
+width: 100%;
+display: flex;
+flex-direction: column;
+height: 70vh;
+margin:1%;
+box-sizing: border-box;
+font-family: 'Andika', sans-serif;
+font-family: 'IM Fell English', serif;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Rammetto One', cursive;
+
+}
+h3 {font-size: 1.5em;
+text-align: left;
+color:#0DF3EA;
+display: flex; flex-direction: column;
+justify-content: space-around; align-items: center;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Quicksand', sans-serif;
+}
+
+li{ background-color:;font-size:1.5em;
+color:#F4F6F7;
+text-align: left;font-family: 'Catamaran', sans-serif;
+font-family: 'Gentium Plus', serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+
+aside{
+  font-size: 1em
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 0%;
+  padding: 1%;
+  width: 90%;
+ }
+
+  
+
+
+
+footer{ border: 2px  solid#16A085;
+      display: flex;
+      justify-content: center;  align-items: center;
+      flex-wrap: wrap;
+      justify-items: auto;
+      flex-direction:  row-reverse;
+      width: 100%;
+height:
+
+}
+
+.wsp{
+  background-color: #2e6329;
+  	border:1vh solid white;
+  	position: fixed;
+  	z-index: 999;
+  	border-radius:50%;
+  	bottom: 2vh;
+  	right: 2vh;
+  	padding: 2.5vh;
+  	transition: ease 0.3s;
+  	width: 2vh;
+  	animation: efecto 1.2s infinite;
+
+}
+.wsp{
+	padding: center;
+	width: 10vh;
+	transition: ease 1s;
+
+}
+.wsp:hover{transform: scale(1.1);
+	transition: 0.3s;
+
+}
+@keyframes efecto{
+	0%{
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.85);	}
+	100%{
+		box-shadow: 0 0 0 4vh rgba(0, 0, 0, 0);	}
+
+.wsp:hover{transform: scale(1.1);
+	transition: 0.3s;}
+}
+/* media queries*/
+@media (min-width: 575px){ .audio {display: none;}
+h1 {font-family: 'Catamaran', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Righteous', cursive;color:#F9F871;
+}
+h2{font-family: 'Catamaran', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Righteous', cursive;color:#F9F871;}
+
+
+}
+@media (min-width: 575px) and (max-width:767px) {
+    body{background: #00C9A7;}
+    p{color: #324B4A;}
+    ul{color: #324B4A;}
+    li{color:#324B4A;}
+    h3{color: #324B4A;}
+@media (min-width: 768px) and (max-width:991px){
+  .titulo1 {background:#00C594;}
+  .titulo2{background: #00C594;}
+@media (min-width: 992px) and (max-width:1199px){
+  .titulo1 {background: black;}
+
+}
